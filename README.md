@@ -10,7 +10,7 @@ Social sciences student at the Federal University of Rio de Janeiro, Brazil<br>I
 
 # 📊 GitHub Stats
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rbassidev&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="max-width: 50%; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbassidev&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 50%; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rbassidev&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" style="width: 400px; height: auto; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbassidev&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="width: 400px; height: auto; display: inline-block;">
 </div>
 
