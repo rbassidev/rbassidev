@@ -7,5 +7,5 @@ Social sciences student at the Federal University of Rio de Janeiro, Brazil<br>I
 | ------------- | ------------- |
 
 <a href="https://www.linkedin.com/in/rebeccabassi/">
-  <img align="right" alt="Rebecca Bassi | LinkedIn" width="21px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <img align="right" alt="Rebecca Bassi | LinkedIn" width="50px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
